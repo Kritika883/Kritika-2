@@ -9,7 +9,7 @@
 
 <body>
     <h1>Kritika Kanda</h1>
-    <img src=""C:\Users\kriti\OneDrive\Pictures\my image.zip"" alt="Professional Image" style="width:200px;height:200px;">
+    <img src=""C:\Users\kriti\OneDrive\Pictures\my image.zip"" alt=":\Users\kriti\OneDrive\Pictures\my image.zip" style="width:200px;height:200px;">
     <dl>
         <dt>Student Number</dt>
         <dd>041130242</dd>
